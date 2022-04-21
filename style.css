@@ -1,0 +1,80 @@
+
+body{
+  font: 16px Poppins, sans-serif;
+  background-image: url(background.jpg);
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 350px;
+  bottom: 90%;
+}
+.logo{
+  width: 250px;
+  height: auto;
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+h1{
+  font-size: 31px;
+  font-weight: 900;
+  color: limegreen;
+  margin-bottom: -150px;
+  margin-top: -70px;
+}
+nav{
+  background-color: limegreen;
+  border: 10px solid limegreen;
+  width: 1000px;
+  position: relative;
+  left: 100px;
+  margin-top: 150px;
+}
+h2 , h4{
+  color: white;
+  margin-bottom: -15px;
+  margin-left: -120px;
+  text-align: left;
+}
+h3{background: #ffbf00;
+   border: 1px;
+   height: 25px;
+   width: 350px;
+   border-radius: 5px;
+   margin-right: +200px;
+   position: relative;
+   left: -120px;
+}
+h5{background: #00ff00;
+   border: 1px;
+   height: 25px;
+   width: 600px;
+   border-radius: 5px;
+   position: relative;
+   left: -120px;
+}
+h6{background: #bc4143;
+   border: 1px;
+   height: 25px;
+   width: 145px;
+   border-radius: 5px;
+   position: relative;
+   left: -120px;
+}
+.container {
+  height: 850px;
+  width: 1200px;
+  background: black;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  margin: 0px;
+  margin-top: -55px;
+}
+.conteiner-scelte {
+  height:300px;
+  width: 550px;
+  opacity: 100%;
+  margin-left: 180px;
+  margin-top: -7px;
+}
